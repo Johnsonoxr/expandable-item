@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_default_height">70dp</dimen>
+    <dimen name="item_expand_height">120dp</dimen>
+    <dimen name="item_margin_vertical">5dp</dimen>
+    <dimen name="item_margin_horizontal">10dp</dimen>
+</resources>
